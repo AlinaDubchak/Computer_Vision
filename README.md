@@ -1,8 +1,6 @@
 # Computer_Vision
 
-## RESEARCH OF TECHNOLOGIES OF CONSTRUCTION AND TRANSFORMATION OF COORDINATES OF PLANAR (2D) AND SPATIAL (3D) OBJECTS
-
-[Link](https://github.com/AlinaDubchak/Computer_Vision/tree/main/axonometric%20projection/README.md)
+## [RESEARCH OF TECHNOLOGIES OF CONSTRUCTION AND TRANSFORMATION OF COORDINATES OF PLANAR (2D) AND SPATIAL (3D) OBJECTS](https://github.com/AlinaDubchak/Computer_Vision/tree/main/axonometric%20projection/README.md)
 
 ### How to run
 
