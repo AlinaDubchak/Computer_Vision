@@ -2,6 +2,8 @@
 
 ## [RESEARCH OF TECHNOLOGIES OF CONSTRUCTION AND TRANSFORMATION OF COORDINATES OF PLANAR (2D) AND SPATIAL (3D) OBJECTS](https://github.com/AlinaDubchak/Computer_Vision/tree/main/axonometric%20projection/README.md)
 
+## [STUDY OF ALGORITHMS FOR THE FORMATION AND PROCESSING OF RASTER DIGITAL IMAGES]
+
 ### How to run
 
 1. Install Python: Ensure Python is installed and added to your system PATH
