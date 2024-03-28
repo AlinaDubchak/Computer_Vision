@@ -4,6 +4,8 @@
 
 ## [STUDY OF ALGORITHMS FOR THE FORMATION AND PROCESSING OF RASTER DIGITAL IMAGES](https://github.com/AlinaDubchak/Computer_Vision/tree/main/Color_correction/README.md)
 
+## [STUDY OF ALGORITHMS FOR THE FORMATION AND PROCESSING OF VECTOR DIGITAL IMAGES](https://github.com/AlinaDubchak/Computer_Vision/tree/main/Interpolation_trace/README.md)
+
 ### How to run
 
 1. Install Python: Ensure Python is installed and added to your system PATH
@@ -36,3 +38,6 @@ python script.py
 - time
 - numpy
 - math
+- PIL
+- matplotlib
+- sys
