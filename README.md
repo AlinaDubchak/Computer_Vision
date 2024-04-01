@@ -6,6 +6,8 @@
 
 ## [STUDY OF ALGORITHMS FOR THE FORMATION AND PROCESSING OF VECTOR DIGITAL IMAGES](https://github.com/AlinaDubchak/Computer_Vision/tree/main/Interpolation_trace/README.md)
 
+## [RESEARCH OF TECHNOLOGIES FOR IMPROVING THE QUALITY OF DIGITAL IMAGES FOR COMPUTER VISION TASKS](https://github.com/AlinaDubchak/Computer_Vision/tree/main/Identification/README.md)
+
 ### How to run
 
 1. Install Python: Ensure Python is installed and added to your system PATH

@@ -36,7 +36,7 @@ color correction of a digital raster image to improve the quality of selection
 the office of the selected object.
 
 _Options_:<br>
-A pyramid with a triangular base.
+A pyramid with a triangular base.<br>
 
-**Method of interpolation:** Bezier curves.
-**Method for removing invisible lines and surfaces:** Floating Horizon algorithm.
+**Method of interpolation:** Bezier curves.<br>
+**Method for removing invisible lines and surfaces:** Floating Horizon algorithm.<br>
