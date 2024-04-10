@@ -19,8 +19,8 @@ The choice of enhancement methods must be justified and should ensure the constr
 For image vectorization (contour determination), use methods from basic Python libraries for digital image processing.
 Identification should be carried out by comparing the geometric features (contour) of the image and the identification object.
 
-**Digital image content / source** - Buildings
-**The object of identification** - Windows
+**Digital image content / source** - Buildings<br>
+**The object of identification** - Windows<br>
 
 ### Mathematical model
 
