@@ -10,6 +10,8 @@
 
 ## [RESEARCH OF TECHNOLOGIES FOR SEGMENTATION AND CLUSTERING OF DIGITAL IMAGES FOR COMPUTER VISION TASKS](https://github.com/AlinaDubchak/Computer_Vision/tree/main/Image_recognition/README.md)
 
+## [STUDY OF DIGITAL IMAGE COMPARISON TECHNOLOGIES FOR TRACKING OBJECTS IN A VIDEO STREAM](https://github.com/AlinaDubchak/Computer_Vision/tree/main/DataSet/README.md)
+
 ### How to run
 
 1. Install Python: Ensure Python is installed and added to your system PATH
@@ -46,3 +48,6 @@ python script.py
 - matplotlib
 - sys
 - cv2
+- keras
+- sklearn
+- shutil, glob, os.path
