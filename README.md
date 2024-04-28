@@ -12,6 +12,8 @@
 
 ## [STUDY OF DIGITAL IMAGE COMPARISON TECHNOLOGIES FOR TRACKING OBJECTS IN A VIDEO STREAM](https://github.com/AlinaDubchak/Computer_Vision/tree/main/DataSet/README.md)
 
+## [RESEARCH OF TECHNOLOGIES FOR OBJECT IDENTIFICATION IN DIGITAL IMAGES FOR COMPUTER VISION TASKS]((https://github.com/AlinaDubchak/Computer_Vision/tree/main/model_learning/README.md)
+
 ### How to run
 
 1. Install Python: Ensure Python is installed and added to your system PATH
@@ -51,3 +53,5 @@ python script.py
 - keras
 - sklearn
 - shutil, glob, os.path
+- tensorflow
+- os
