@@ -12,7 +12,7 @@
 
 ## [STUDY OF DIGITAL IMAGE COMPARISON TECHNOLOGIES FOR TRACKING OBJECTS IN A VIDEO STREAM](https://github.com/AlinaDubchak/Computer_Vision/tree/main/DataSet/README.md)
 
-## [RESEARCH OF TECHNOLOGIES FOR OBJECT IDENTIFICATION IN DIGITAL IMAGES FOR COMPUTER VISION TASKS]((https://github.com/AlinaDubchak/Computer_Vision/tree/main/model_learning/README.md)
+## [RESEARCH OF TECHNOLOGIES FOR OBJECT IDENTIFICATION IN DIGITAL IMAGES FOR COMPUTER VISION TASKS](https://github.com/AlinaDubchak/Computer_Vision/tree/main/model_learning/README.md)
 
 ### How to run
 
